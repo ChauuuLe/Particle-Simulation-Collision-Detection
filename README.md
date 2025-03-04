@@ -1,0 +1,1 @@
+A high-performance particle simulation project that leverages OpenMP for parallel computing on multi-core systems. The simulation employs a grid-based spatial partitioning algorithm for broad-phase collision detection and elastic collision resolution, significantly reducing computational complexity.
